@@ -34,3 +34,7 @@ pip install "flask==3.*" "SQLAlchemy==2.*" "requests[socks]==2.*" "APScheduler==
 
 # 4. Fire it up
 python app.py
+
+# 5. Visit
+http://127.0.0.1:3000
+```
