@@ -3,6 +3,8 @@
 
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python%203.11+-blue.svg)
 
+![Socksy Dashboard preview](preview.png)
+
 ---
 
 ## ✨ Key Features
